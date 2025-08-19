@@ -1,0 +1,15 @@
+[
+    {
+      "title": "AWS Portfolio — S3 + CloudFront (OAC)",
+      "summary": "Secure, CDN‑backed static portfolio hosted on S3 with CloudFront and Origin Access Control. Private bucket, HTTPS, versioned deploys.",
+      "tags": ["AWS", "S3", "CloudFront", "OAC", "Static Site"],
+      "image": "assets/aws-portfolio/aws-portfolio-hero.png",
+      "images": ["assets/aws-portfolio/aws-portfolio-structure.png"],
+      "links": {
+        "live": "https://d15h6g7hbbrlih.cloudfront.net/",
+        "github": "https://github.com/jorgeepereira/aws-portfolio"
+      },
+      "year": 2025
+    }
+  ]
+  
